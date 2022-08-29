@@ -1,0 +1,39 @@
+
+
+  hr {
+    border-style: dotted;
+    width: 50%;
+    color: #472D2D;
+
+  }
+
+
+body {
+  background-color: #C3FF99;
+  text-align: center;
+  margin-top: 0px;
+  
+}
+
+img {
+  width: 40%;
+  margin: auto;
+
+}
+
+#contactMe {
+  background-color: #FFFDE3;
+}
+
+#nameEdit {
+  margin-bottom: 20px;
+
+}
+
+#feedbackEdit {
+  margin-bottom: 20px;
+}
+
+#imagesPageEditor {
+  background-color: #78938A;
+}
